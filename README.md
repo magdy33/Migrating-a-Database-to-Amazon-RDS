@@ -90,9 +90,5 @@ After completing the migration, the architecture includes:
 - Monitor costs and optimize further where applicable.
 
 ---
-### Author
-This project was implemented as part of an AWS Challenge Lab.
 
-### License
-This work is licensed under the terms of [Amazon Web Services](https://aws.amazon.com) usage guidelines.
 
